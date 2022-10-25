@@ -1,0 +1,12 @@
+// Lo he probado en oracle apex, que he subido el sql y creo que esto es lo que se pide.
+
+DECLARE
+  NOMBRE    ENFERMO.NOMBRE%TYPE := 'IVAN';
+  APELLIDOS ENFERMO.APELLIDOS%TYPE := ', AVILA FRANCO';
+  DIRECCION ENFERMO.DIRECCION%TYPE := 'SEVILLA';
+BEGIN
+     DBMS_OUTPUT.PUT_LINE('DATOS DEL ENFERMO');
+     DBMS_OUTPUT.PUT_LINE ('-----------------'||CHR(10));
+     DBMS_OUTPUT.PUT_LINE(NOMBRE ||''||APELLIDOS);
+     DBMS_OUTPUT.PUT_LINE(DIRECCION||'');
+END;
