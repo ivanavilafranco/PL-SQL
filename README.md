@@ -11,7 +11,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Visión general de las herramientas de diseño y desarrollo de Oracle.
 - Instalación de la última versión y manejo de la herramienta Oracle SQL Developer.
 
-#####Bloque II. SQL vs PL/SQL.  Estructuras de control. Transacciones. Tipos estructurados.
+##### Bloque II. SQL vs PL/SQL.  Estructuras de control. Transacciones. Tipos estructurados.
 
 - Uso del lenguaje SQL dentro del lenguaje de programación PL/SQL.
 - Tipos de estructuras de control disponibles.
@@ -20,7 +20,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Definición y manejo de un tipo Tabla (TABLE).
 - Definición y manejo de un VARRAY.
 
-#####Bloque III. Cursores y Subprogramas
+##### Bloque III. Cursores y Subprogramas
 
 - Definición y manejo de cursores.
 - Tipos de cursores.
@@ -28,7 +28,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Creación de procedimientos.
 - Creación de funciones.
 
-#####Bloque IV. Paquetes.
+##### Bloque IV. Paquetes.
 
 - Definición de los paquetes.
 - Estructura y definición de la cabecera del paquete.
@@ -39,7 +39,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Dependencias de los paquetes.
 - Relación de paquetes predeterminados del lenguaje en la versión 12c y detalle de los más importantes que se utilizan en PL/SQL.
 
-#####Bloque V. Disparadores (Triggers)
+##### Bloque V. Disparadores (Triggers)
 
 - Definición de los triggers.
 - Utilidad de un trigger.
@@ -51,7 +51,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Uso de los predicados booleanos dentro de un trigger.
 - Que es y cómo evitar las tablas mutantes al manejar los triggers.
 
-#####Bloque VI. Tratamiento de errores.
+##### Bloque VI. Tratamiento de errores.
 
 - Definición y declaración de excepciones.
 - Definición de las excepciones de usuario y uso de excepciones predefinidas.
@@ -62,7 +62,7 @@ Bloque I. Introducción al lenguaje PL/SQL.
 - Uso de EXCEPTION_INIT.
 - Propagación de excepcione
 
-#####Bloque VII. Cursores Avanzados. Objetos. Certificación de Oracle
+##### Bloque VII. Cursores Avanzados. Objetos. Certificación de Oracle
 
 - Definición y manejo de los bucles LOOP-END LOOP.
 - Definición y manejo de bucles WHILE.
